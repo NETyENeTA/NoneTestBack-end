@@ -1,0 +1,4 @@
+Hello chat!
+EveryOne good luck...
+#Hello_world!
+init.pygame(.git_ignore)
